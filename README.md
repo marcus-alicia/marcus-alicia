@@ -5,7 +5,7 @@
 ### My name is Alicia, aka. the `Red Queen`
 - 😄 I am 17 years old
 - 🤔 I focus on decompiling & deobfuscating
-- 🖥️ I usually code in JS & PY, but can be found touching bash and c/c# as well
+- 🖥️ I usually code in JS & PY, but can be found touching bash and C# as well
 - 💬 You can contact me on [discord](https://discord.gg/96kh6n5EMB)
 <br><br>
 
