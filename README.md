@@ -6,7 +6,7 @@
 - 😄 I am 17 years old
 - 🤔 I focus on decompiling & deobfuscating
 - 🖥️ I usually code in JS & PY, but can be found touching bash and C# as well
-- 💬 You can contact me on [discord](https://discord.gg/96kh6n5EMB)
+- 💬 You can contact me on [discord](https://discord.gg/free-tools)
 <br><br>
 
 -----
